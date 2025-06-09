@@ -1,0 +1,107 @@
+# Privacy Policy for CalmParent
+
+**Effective Date:** [Insert Date]
+
+## Introduction
+
+CalmParent ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+
+## Information We Collect
+
+### Information You Provide
+- **Child Information**: Names, birth dates, and developmental stages you enter to personalize content
+- **Parent Information**: Optional parent name for personalization
+- **App Settings**: Your preferences for notifications, themes, and app behavior
+
+### Information Automatically Collected
+- **Usage Data**: How you interact with the app (anonymized analytics)
+- **Device Information**: Device type, operating system, and app version for technical support
+
+## How We Use Your Information
+
+We use your information to:
+- Provide personalized daily affirmations and parenting content
+- Send push notifications (if enabled)
+- Improve our app experience
+- Provide technical support
+
+## Data Storage and Security
+
+- **Local Storage**: All personal data (child information, settings) is stored locally on your device
+- **No Cloud Storage**: We do not store your personal information on external servers
+- **Encryption**: Data is encrypted using industry-standard security measures
+- **Access**: Only you have access to your data through your device
+
+## Data Sharing
+
+We **DO NOT**:
+- Sell your personal information
+- Share your child's information with third parties
+- Use your data for advertising purposes
+- Store personal data on external servers
+
+We **MAY** share:
+- Anonymized usage statistics to improve the app
+- Technical information with app store platforms (Apple, Google) as required
+
+## Children's Privacy (COPPA Compliance)
+
+CalmParent is designed for parents and contains content about children. We:
+- Do not knowingly collect personal information from children under 13
+- Store all child-related data locally on the parent's device
+- Do not require children to provide any information
+- Comply with the Children's Online Privacy Protection Act (COPPA)
+
+## Your Rights
+
+You have the right to:
+- Delete all your data by uninstalling the app
+- Export your data (contact us for assistance)
+- Opt out of analytics collection
+- Control notification settings
+
+## Data Retention
+
+- Data is retained only on your device
+- Uninstalling the app permanently deletes all data
+- We do not maintain backups of your personal information
+
+## Push Notifications
+
+- Notifications are generated locally on your device
+- We do not store notification history
+- You can disable notifications at any time in settings
+
+## Third-Party Services
+
+We may use:
+- **Analytics Services**: To understand app usage (anonymized data only)
+- **App Store Platforms**: Apple App Store and Google Play Store for distribution
+
+## Changes to This Policy
+
+We may update this Privacy Policy occasionally. We will notify users of significant changes through:
+- App updates
+- In-app notifications
+- Email (if provided)
+
+## Contact Us
+
+If you have questions about this Privacy Policy:
+
+**Email:** [your-email@domain.com]  
+**App Name:** CalmParent  
+**Developer:** [Your Name/Company]
+
+## Legal Compliance
+
+This policy complies with:
+- Children's Online Privacy Protection Act (COPPA)
+- General Data Protection Regulation (GDPR)
+- California Consumer Privacy Act (CCPA)
+- Apple App Store Guidelines
+- Google Play Store Policies
+
+---
+
+*Last Updated: [Insert Date]*
